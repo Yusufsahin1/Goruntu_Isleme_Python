@@ -1,1 +1,1 @@
-# Goruntu_Isleme_Python
+Görüntü İşleme dersi uygulamaları
